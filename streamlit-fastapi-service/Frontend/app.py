@@ -14,7 +14,6 @@ def eval1():
 
     # Check if the button is clicked
     if button_clicked:
-        st.write("Button clicked!")
         eval1_exec(option)
 
 def eval2():

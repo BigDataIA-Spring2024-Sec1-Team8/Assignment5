@@ -71,31 +71,7 @@ async def eval1_exec(topic,websocket,run_id):
             await websocket.send_json({"table": data})
             if ans_op == real_op:
                 correct+=1
-    csvpath = f'resources/{topic}_seta.csv'
-    with open(csvpath, 'r', encoding='utf-8') as file:
-            # Create a CSV reader object
-        csv_reader = csv.DictReader(file)
-            # Iterate through each row in the CSV file
-        for row in csv_reader:
-            question,real_ans = row['Question'], row['Answer']
-            # await websocket.send_json({"message": f"question is:\n:{question}"})
-            total+=1
-            ans = await find_ans_using_qas(topic,question)
-            # await websocket.send_json({"message": f"predicted answer is: \n{ans}"})
-            ans_op = await fetch_option(ans)
-            # st.write(ans_op)
-            real_op = await fetch_option(real_ans)
-            # await websocket.send_json({"message": f"real answer is: \n{real_ans}"})
-            # st.write(real_op)
-            await asyncio.sleep(3)
-            data.append({
-                "question": question,
-                "real": real_ans,
-                "predicted": ans
-            })
-            await websocket.send_json({"table": data})
-            if ans_op == real_op:
-                correct+=1
+
         await upload_run(websocket,run_id,"qa_approach", correct, total,topic)
 
         await websocket.send_json({"evaluation": [correct,total]})
@@ -143,6 +119,31 @@ async def eval2_exec(topic, websocket, run_id):
                 correct+=1
                 # if correct == 1:
                 #     break
+    csvpath = f'resources/{topic}_seta.csv'
+    with open(csvpath, 'r', encoding='utf-8') as file:
+            # Create a CSV reader object
+        csv_reader = csv.DictReader(file)
+            # Iterate through each row in the CSV file
+        for row in csv_reader:
+            question,real_ans = row['Question'], row['Answer']
+            # await websocket.send_json({"message": f"question is:\n:{question}"})
+            total+=1
+            ans = await find_ans_using_qas(topic,question)
+            # await websocket.send_json({"message": f"predicted answer is: \n{ans}"})
+            ans_op = await fetch_option(ans)
+            # st.write(ans_op)
+            real_op = await fetch_option(real_ans)
+            # await websocket.send_json({"message": f"real answer is: \n{real_ans}"})
+            # st.write(real_op)
+            await asyncio.sleep(3)
+            data.append({
+                "question": question,
+                "real": real_ans,
+                "predicted": ans
+            })
+            await websocket.send_json({"table": data})
+            if ans_op == real_op:
+                correct+=1
         await upload_run(websocket,run_id,"knowledge_approach", correct, total, topic)
         await websocket.send_json({"evaluation": [correct,total]})
         await websocket.close()
