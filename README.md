@@ -14,7 +14,9 @@ Our objective is to create an intuitive platform where users feel like they are 
 ![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/generating%20knowledgebase.png)
 
 **QA Generation**
-![image](
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/QA_generation.png)
 
 **Evaluation of Results**
-![image](
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/evaluation.png)
+
+
