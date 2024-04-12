@@ -1,0 +1,8 @@
+snowflake-connector-python
+snowflake-sqlalchemy
+pandas
+pinecone-client
+google-generativeai
+openai
+boto3
+PyPDF2

@@ -1,0 +1,41 @@
+Question,Answer
+"What is a measure for identifying potential outliers in regression analysis?
+
+A) Leverage  
+B) Standard deviation  
+C) Studentized residuals  
+D) Confidence interval","C) Studentized residuals  
+
+Explanation: Studentized residuals are used to identify potential outliers in regression analysis. If the studentized residual is greater than the critical value of the t-statistic with n – k – 2 degrees of freedom, then the observation is potentially influential."
+"In logistic regression, what transformation is applied to the event probability to linearize the relationship with independent variables?
+
+A) Exponential transformation  
+B) Square root transformation  
+C) Logistic transformation  
+D) Natural logarithm transformation","C) Logistic transformation  
+
+Explanation: In logistic regression, the logistic transformation of the event probability (P) into the log odds, ln[P/(1 − P)], is applied to linearize the relationship with independent variables."
+"What is a measure used to identify influential data points in regression analysis by measuring the change in regression values if observation i is deleted?
+
+A) Standard deviation  
+B) Variance inflation factor  
+C) Cook's distance  
+D) Durbin-Watson statistic","C) Cook's distance  
+
+Explanation: Cook's distance, or Cook's D, is a metric for identifying influential data points in regression analysis. It measures how much the estimated values of the regression change if observation i is deleted. If Di > 2 √_k / n, then the observation is highly likely to be influential."
+"What type of variable represents qualitative independent variables in regression analysis by taking a value of 1 or 0?
+
+A) Ordinal variable  
+B) Interval variable  
+C) Dummy variable  
+D) Continuous variable","C) Dummy variable  
+
+Explanation: Dummy variables represent qualitative independent variables in regression analysis. They take a value of 1 (for true) or 0 (for false) to indicate whether a specific condition applies, such as industry sector or presence of a categorical variable."
+"What method is typically used to estimate logistic regression coefficients?
+
+A) Least squares estimation  
+B) Maximum likelihood estimation  
+C) Ordinary least squares estimation  
+D) Ridge regression","B) Maximum likelihood estimation  
+
+Explanation: Logistic regression coefficients are typically estimated using the maximum likelihood estimation (MLE) method, which is commonly used for logistic regression models."

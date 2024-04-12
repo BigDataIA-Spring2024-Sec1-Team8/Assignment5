@@ -1,0 +1,17 @@
+# Introduction
+
+The member should be able to: describe and critique the use of mean–variance optimization in asset allocation; recommend and justify an asset allocation using mean–variance optimization; interpret and critique an asset allocation in relation to an investor’s economic balance sheet; discuss asset class liquidity considerations in asset allocation; explain absolute and relative risk budgets and their use in determining and implementing an asset allocation; describe how client needs and preferences regarding investment risks can be incorporated into asset allocation; discuss the use of Monte Carlo simulation and scenario analysis to evaluate the robustness of an asset allocation; describe the use of investment factors in constructing and analyzing an asset allocation; recommend and justify an asset allocation based on the global market portfolio; describe and evaluate characteristics of liabilities that are relevant to asset allocation; discuss approaches to liability-relative asset allocation; recommend and justify a liability-relative asset allocation; recommend and justify an asset allocation using a goals-based approach; describe and critique heuristic and other approaches to asset allocation; discuss factors affecting rebalancing policy.
+
+## Summary
+
+
+
+## Learning Outcomes
+
+The member should be able to: describe and critique the use of mean–variance optimization in asset allocation; recommend and justify an asset allocation using mean–variance optimization; interpret and critique an asset allocation in relation to an investor’s economic balance sheet; discuss asset class liquidity considerations in asset allocation; explain absolute and relative risk budgets and their use in determining and implementing an asset allocation; describe how client needs and preferences regarding investment risks can be incorporated into asset allocation; discuss the use of Monte Carlo simulation and scenario analysis to evaluate the robustness of an asset allocation; describe the use of investment factors in constructing and analyzing an asset allocation; recommend and justify an asset allocation based on the global market portfolio; describe and evaluate characteristics of liabilities that are relevant to asset allocation; discuss approaches to liability-relative asset allocation; recommend and justify a liability-relative asset allocation; recommend and justify an asset allocation using a goals-based approach; describe and critique heuristic and other approaches to asset allocation; discuss factors affecting rebalancing policy.
+
+## Technical Note
+
+**Summary:**
+
+Mean-variance optimization is a powerful tool for constructing asset allocations based on risk and return objectives. By considering an investor's economic balance sheet, liquidity needs, risk budgets, and preferences, asset allocations can be tailored to individual circumstances. Monte Carlo simulation and scenario analysis enhance robustness evaluations. Investment factors provide insights for portfolio construction and analysis. The global market portfolio offers a diversified base for asset allocation. Liabilities influence asset allocation strategies, necessitating liability-relative approaches. Goals-based asset allocation aligns investments with specific financial objectives. Heuristic and alternative methods offer complementary perspectives for asset allocation. Rebalancing policies optimize portfolio performance over time, considering factors such as market conditions and investment objectives.

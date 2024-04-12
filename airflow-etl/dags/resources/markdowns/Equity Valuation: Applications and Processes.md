@@ -1,0 +1,52 @@
+# Introduction
+
+The member should be able to: define valuation and intrinsic value and explain sources of perceived mispricing; explain the going concern assumption and contrast a going concern value to a liquidation value; describe definitions of value and justify which definition of value is most relevant to public company valuation; describe applications of equity valuation; describe questions that should be addressed in conducting an industry and competitive analysis; contrast absolute and relative valuation models and describe examples of each type of model; describe sum-of-the-parts valuation and conglomerate discounts; explain broad criteria for choosing an appropriate approach for valuing a given company.
+
+## Summary
+
+Valuation is the estimation of an asset’s value based on either variables perceived to be related to future investment returns or comparisons with closely similar assets., The intrinsic value of an asset is its value given a hypothetically complete understanding of the asset’s investment characteristics., The assumption that the market price of a security can diverge from its intrinsic value—as suggested by the rational efficient markets formulation of efficient market theory—underpins active investing., Intrinsic value incorporates the going-concern assumption, that is, the assumption that a company will continue operating for the foreseeable future. In contrast, liquidation value is the company’s value if it were dissolved and its assets sold individually., Fair value is the price at which an asset (or liability) would change hands if neither buyer nor seller were under compulsion to buy/sell and both were informed about material underlying facts., In addition to stock selection by active traders, valuation is also used for: inferring (extracting) market expectations; evaluating corporate events; issuing fairness opinions; evaluating business strategies and models; and appraising private businesses., inferring (extracting) market expectations;, evaluating corporate events;, issuing fairness opinions;, evaluating business strategies and models; and, appraising private businesses., The valuation process has five steps: Understanding the business. Forecasting company performance. Selecting the appropriate valuation model. Converting forecasts to a valuation. Applying the analytical results in the form of recommendations and conclusions., Understanding the business., Forecasting company performance., Selecting the appropriate valuation model., Converting forecasts to a valuation., Applying the analytical results in the form of recommendations and conclusions., Understanding the business includes evaluating industry prospects, competitive position, and corporate strategies—all of which contribute to making more accurate forecasts. Understanding the business also involves analysis of financial reports, including evaluating the quality of a company’s earnings., In forecasting company performance, a top-down forecasting approach moves from macroeconomic forecasts to industry forecasts and then to individual company and asset forecasts. A bottom-up forecasting approach aggregates individual company forecasts to industry forecasts, which in turn may be aggregated to macroeconomic forecasts., Selecting the appropriate valuation approach means choosing an approach that is: consistent with the characteristics of the company being valued; appropriate given the availability and quality of the data; and consistent with the analyst’s valuation purpose and perspective., consistent with the characteristics of the company being valued;, appropriate given the availability and quality of the data; and, consistent with the analyst’s valuation purpose and perspective., Two broad categories of valuation models are absolute valuation models and relative valuation models. Absolute valuation models specify an asset’s intrinsic value, supplying a point estimate of value that can be compared with market price. Present value models of common stock (also called discounted cash flow models) are the most important type of absolute valuation model. Relative valuation models specify an asset’s value relative to the value of another asset. As applied to equity valuation, relative valuation is also known as the method of comparables, which involves comparison of a stock’s price multiple to a benchmark price multiple. The benchmark price multiple can be based on a similar stock or on the average price multiple of some group of stocks., Absolute valuation models specify an asset’s intrinsic value, supplying a point estimate of value that can be compared with market price. Present value models of common stock (also called discounted cash flow models) are the most important type of absolute valuation model., Relative valuation models specify an asset’s value relative to the value of another asset. As applied to equity valuation, relative valuation is also known as the method of comparables, which involves comparison of a stock’s price multiple to a benchmark price multiple. The benchmark price multiple can be based on a similar stock or on the average price multiple of some group of stocks., Two important aspects of converting forecasts to valuation are sensitivity analysis and situational adjustments. Sensitivity analysis is an analysis to determine how changes in an assumed input would affect the outcome of an analysis. Situational adjustments include control premiums (premiums for a controlling interest in the company), discounts for lack of marketability (discounts reflecting the lack of a public market for the company’s shares), and illiquidity discounts (discounts reflecting the lack of a liquid market for the company’s shares)., Sensitivity analysis is an analysis to determine how changes in an assumed input would affect the outcome of an analysis., Situational adjustments include control premiums (premiums for a controlling interest in the company), discounts for lack of marketability (discounts reflecting the lack of a public market for the company’s shares), and illiquidity discounts (discounts reflecting the lack of a liquid market for the company’s shares)., Applying valuation conclusions depends on the purpose of the valuation., In performing valuations, analysts must hold themselves accountable to both standards of competence and standards of conduct., An effective research report: contains timely information; is written in clear, incisive language; is objective and well researched, with key assumptions clearly identified; distinguishes clearly between facts and opinions; contains analysis, forecasts, valuation, and a recommendation that are internally consistent; presents sufficient information that the reader can critique the valuation; states the risk factors for an investment in the company; and discloses any potential conflicts of interest faced by the analyst., contains timely information;, is written in clear, incisive language;, is objective and well researched, with key assumptions clearly identified;, distinguishes clearly between facts and opinions;, contains analysis, forecasts, valuation, and a recommendation that are internally consistent;, presents sufficient information that the reader can critique the valuation;, states the risk factors for an investment in the company; and, discloses any potential conflicts of interest faced by the analyst., Analysts have an obligation to provide substantive and meaningful content. CFA Institute members have an additional overriding responsibility to adhere to the CFA Institute Code of Ethics and relevant specific Standards of Professional Conduct.
+
+## Learning Outcomes
+
+The member should be able to: define valuation and intrinsic value and explain sources of perceived mispricing; explain the going concern assumption and contrast a going concern value to a liquidation value; describe definitions of value and justify which definition of value is most relevant to public company valuation; describe applications of equity valuation; describe questions that should be addressed in conducting an industry and competitive analysis; contrast absolute and relative valuation models and describe examples of each type of model; describe sum-of-the-parts valuation and conglomerate discounts; explain broad criteria for choosing an appropriate approach for valuing a given company.
+
+## Technical Note
+
+**Technical Note**
+
+**Subject: Equity Valuation**
+
+**Key Points**
+
+* **Definition of Valuation:** Estimating an asset's value based on future investment returns or comparisons with similar assets.
+* **Intrinsic Value:** Value of an asset with complete understanding of its investment characteristics.
+* **Going Concern Assumption:** Expectation of a company's continued operation indefinitely.
+* **Going Concern Value:** Value of a company as an ongoing entity.
+* **Liquidation Value:** Value of a company's assets if sold individually.
+* **Fair Value:** Price at which an asset would be bought or sold in a hypothetical transaction between informed, willing parties.
+* **Equity Valuation Applications:** Stock selection, market expectations inference, corporate event evaluation, business model assessment, and private business appraisal.
+
+**Valuation Process**
+
+1. Understand business (industry analysis, competitive position, corporate strategies).
+2. Forecast company performance (top-down or bottom-up approach).
+3. Select valuation model (absolute or relative, based on company characteristics and data availability).
+4. Convert forecasts to valuation (present value or comparable analysis).
+5. Apply results (analysis, conclusions, recommendations).
+
+**Valuation Models**
+
+**Absolute Valuation:**
+* Specifies intrinsic value directly (e.g., discounted cash flow models).
+
+**Relative Valuation:**
+* Compares asset value to another asset (e.g., method of comparables).
+
+**Additional Considerations**
+
+* **Sum-of-the-Parts Valuation:** Valuations of individual business segments.
+* **Conglomerate Discounts:** Discounts applied to conglomerates due to perceived diseconomies of scale.
+* **Criteria for Selecting Valuation Approach:**
+    * Consistency with company characteristics.
+    * Availability and quality of data.
+    * Analyst's purpose and perspective.

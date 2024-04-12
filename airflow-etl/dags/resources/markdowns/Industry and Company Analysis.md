@@ -1,0 +1,17 @@
+# Introduction
+
+The member should be able to: compare top-down, bottom-up, and hybrid approaches for developing inputs to equity valuation models; compare “growth relative to GDP growth” and “market growth and market share” approaches to forecasting revenue; evaluate whether economies of scale are present in an industry by analyzing operating margins and sales levels; forecast the following costs: cost of goods sold, selling general and administrative costs, financing costs, and income taxes; describe approaches to balance sheet modeling; describe the relationship between return on invested capital and competitive advantage; explain how competitive factors affect prices and costs; judge the competitive position of a company based on a Porter’s five forces analysis; explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation; evaluate the effects of technological developments on demand, selling prices, costs, and margins; explain considerations in the choice of an explicit forecast horizon; explain an analyst’s choices in developing projections beyond the short-term forecast horizon; demonstrate the development of a sales-based pro forma company model.
+
+## Summary
+
+
+
+## Learning Outcomes
+
+The member should be able to: compare top-down, bottom-up, and hybrid approaches for developing inputs to equity valuation models; compare “growth relative to GDP growth” and “market growth and market share” approaches to forecasting revenue; evaluate whether economies of scale are present in an industry by analyzing operating margins and sales levels; forecast the following costs: cost of goods sold, selling general and administrative costs, financing costs, and income taxes; describe approaches to balance sheet modeling; describe the relationship between return on invested capital and competitive advantage; explain how competitive factors affect prices and costs; judge the competitive position of a company based on a Porter’s five forces analysis; explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation; evaluate the effects of technological developments on demand, selling prices, costs, and margins; explain considerations in the choice of an explicit forecast horizon; explain an analyst’s choices in developing projections beyond the short-term forecast horizon; demonstrate the development of a sales-based pro forma company model.
+
+## Technical Note
+
+**Summary**
+
+This technical note explores the methodologies for developing inputs in equity valuation models. It compares top-down, bottom-up, and hybrid approaches for forecasting revenue through GDP growth and market growth methods. The note evaluates economies of scale and forecasts costs, including COGS, SG&A, financing, and income taxes. It discusses balance sheet modeling and the relationship between return on invested capital and competitive advantage. Porter's five forces analysis is used to assess a company's competitive position. The note also explains how to forecast under inflation or deflation and consider technological developments. Finally, it provides guidance on choosing an explicit forecast horizon and developing projections beyond the short-term horizon.
