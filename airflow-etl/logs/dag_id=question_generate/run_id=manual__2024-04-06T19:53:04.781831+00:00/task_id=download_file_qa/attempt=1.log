@@ -1,0 +1,19 @@
+[2024-04-06T19:53:06.777+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: question_generate.download_file_qa manual__2024-04-06T19:53:04.781831+00:00 [queued]>
+[2024-04-06T19:53:06.783+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: question_generate.download_file_qa manual__2024-04-06T19:53:04.781831+00:00 [queued]>
+[2024-04-06T19:53:06.783+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 2
+[2024-04-06T19:53:06.792+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): download_file_qa> on 2024-04-06 19:53:04.781831+00:00
+[2024-04-06T19:53:06.798+0000] {standard_task_runner.py:60} INFO - Started process 299 to run task
+[2024-04-06T19:53:06.801+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'question_generate', 'download_file_qa', 'manual__2024-04-06T19:53:04.781831+00:00', '--job-id', '152', '--raw', '--subdir', 'DAGS_FOLDER/dags.py', '--cfg-path', '/tmp/tmp4_67yb8p']
+[2024-04-06T19:53:06.804+0000] {standard_task_runner.py:88} INFO - Job 152: Subtask download_file_qa
+[2024-04-06T19:53:06.837+0000] {task_command.py:423} INFO - Running <TaskInstance: question_generate.download_file_qa manual__2024-04-06T19:53:04.781831+00:00 [running]> on host f0322756f627
+[2024-04-06T19:53:06.887+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='question_generate' AIRFLOW_CTX_TASK_ID='download_file_qa' AIRFLOW_CTX_EXECUTION_DATE='2024-04-06T19:53:04.781831+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-06T19:53:04.781831+00:00'
+[2024-04-06T19:53:06.889+0000] {logging_mixin.py:188} INFO - /opt/***/dags
+[2024-04-06T19:53:06.889+0000] {logging_mixin.py:188} INFO - AKIAZKBSEM3LIHPHJB5H nzYe6lWTIOhygJ/AdtTbZiYldivawed9AefupEwA
+[2024-04-06T19:53:07.190+0000] {logging_mixin.py:188} INFO - buvk cfainstitute-topic-details-processed
+[2024-04-06T19:53:07.191+0000] {logging_mixin.py:188} INFO - buvkdd 
+[2024-04-06T19:53:07.191+0000] {logging_mixin.py:188} INFO - buvddddddddk processed.csv
+[2024-04-06T19:53:07.192+0000] {logging_mixin.py:188} INFO - /opt/***/dags/resources/manual__2024-04-06T19:53:04.781831+00:00/processed.csv
+[2024-04-06T19:53:09.131+0000] {python.py:202} INFO - Done. Returned value was: processed.csv
+[2024-04-06T19:53:09.153+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=question_generate, task_id=download_file_qa, execution_date=20240406T195304, start_date=20240406T195306, end_date=20240406T195309
+[2024-04-06T19:53:09.201+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-06T19:53:09.226+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check
