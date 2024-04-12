@@ -19,6 +19,10 @@ Our objective is to create an intuitive platform where users feel like they are 
 **Evaluation of Results**
 ![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/evaluation.png)
 
+## Repository Structure
+**Overview**
+
+![image](
 
 ## Contributions
 -Sai Durga Mahesh Bandaru - 33.3%
