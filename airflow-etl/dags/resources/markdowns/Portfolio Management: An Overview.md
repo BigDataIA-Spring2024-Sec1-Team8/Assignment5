@@ -1,0 +1,19 @@
+# Introduction
+
+The member should be able to: describe the portfolio approach to investing; describe the steps in the portfolio management process; describe types of investors and distinctive characteristics and needs of each; describe defined contribution and defined benefit pension plans; describe aspects of the asset management industry; describe mutual funds and compare them with other pooled investment products.
+
+## Summary
+
+A portfolio approach to investing could be preferable to simply investing in individual securities., The problem with focusing on individual securities is that this approach may lead to the investor “putting all her eggs in one basket.”, Portfolios provide important diversification benefits, allowing risk to be reduced without necessarily affecting or compromising return., Understanding the needs of your client and preparing an investment policy statement represent the first steps of the portfolio management process. Those steps are followed by asset allocation, security analysis, portfolio construction, portfolio monitoring and rebalancing, and performance measurement and reporting., Types of investors include individual and institutional investors. Institutional investors include defined benefit pension plans, endowments and foundations, banks, insurance companies, and sovereign wealth funds., The asset management industry is an integral component of the global financial services sector. Asset managers offer either active management, passive management, or both. Asset managers are typically categorized as traditional or alternative, although the line between traditional and alternative has blurred., Three key trends in the asset management industry include the growth of passive investing, “big data” in the investment process, and robo-advisers in the wealth management industry., Investors use different types of investment products in their portfolios. These include mutual funds, separately managed accounts, exchange-traded funds, hedge funds, and private equity and venture capital funds.
+
+## Learning Outcomes
+
+The member should be able to: describe the portfolio approach to investing; describe the steps in the portfolio management process; describe types of investors and distinctive characteristics and needs of each; describe defined contribution and defined benefit pension plans; describe aspects of the asset management industry; describe mutual funds and compare them with other pooled investment products.
+
+## Technical Note
+
+**Portfolio Management Summary**
+
+A portfolio approach to investing involves diversifying investments across multiple securities to reduce risk while maintaining return potential. The portfolio management process includes defining client needs, allocating assets, analyzing securities, constructing the portfolio, monitoring and rebalancing it, and measuring performance. Investors can be individuals or institutions, with varying needs and characteristics. Defined contribution pension plans allow employees to contribute to their own accounts, while defined benefit plans guarantee a specific retirement income.
+
+The asset management industry manages investments for clients, offering active or passive management strategies. Traditional and alternative asset management firms blur the lines between these categories. The industry has seen trends towards passive investing, big data utilization, and robo-advisors. Mutual funds are pooled investment vehicles that offer diversified exposure to a specific asset class or strategy. They differ from other pooled investment products, such as ETFs, hedge funds, and private equity funds, in terms of structure, fees, and investment strategies.
