@@ -9,3 +9,9 @@ Our objective is to create an intuitive platform where users feel like they are 
 ## Project Resources
 - Google Codelabs - [https://codelabs-preview.appspot.com/?file_id=1uXikN37mPdhQEFKc0ie2BY0VctI6MaWroPuIYfkSPCs#0 ](https://codelabs-preview.appspot.com/?file_id=1LhPahVn6ePoLbodXvMhBIhIVaoZWisL6UW6Zlb3CWYU#0)
 
+## Architecture Diagram
+**Knowledge Base Generation**
+
+**QA Generation**
+
+**Evaluation of Results**
