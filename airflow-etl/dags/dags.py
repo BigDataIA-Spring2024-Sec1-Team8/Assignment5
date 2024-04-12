@@ -91,5 +91,5 @@ knowledge_upload_task = PythonOperator(
 
 task_download_from_s3_knowledge >> knowledge_create_task >> knowledge_upload_task 
 
-[task_download_from_s3, extract_text_from_pdf_task] >> generate_qa_seta_task
+[task_download_from_s3, extract_text_from_pdf_task] >> generate_qa_seta_task >> upload_qa_task
 [task_download_from_s3, extract_text_from_pdf_task] >> generate_qa_setb_task >> upload_qa_task
