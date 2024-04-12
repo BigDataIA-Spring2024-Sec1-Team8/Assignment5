@@ -1,0 +1,11 @@
+streamlit
+requests
+asyncio
+websockets
+pandas
+boto3
+zipfile36
+confluent_kafka
+pinecone-client
+openai
+matplotlib
