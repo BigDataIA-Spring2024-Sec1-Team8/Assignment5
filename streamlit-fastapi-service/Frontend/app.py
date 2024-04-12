@@ -54,7 +54,15 @@ def run_results():
                 ("all",'Extensions of Multiple Regression', 'Evaluating Regression Model Fit and Interpreting Model Results', 'Model Misspecification')
                          )
     d1 = fetch_run_res(technique,topic)
-    st.dataframe(pd.DataFrame(d1))
+    df = pd.DataFrame(d1)
+    st.dataframe(df)
+    st.title("Summary")
+    if topic == 'all' and technique=='all':
+        for i in ['qa_approach', 'knowledge_approach']:
+            st.title(i)
+            k = df[df['technique'] == i]['correct_ans'].mean()
+            st.write(f"Average correct answers using this technique is {k}")
+
     # st.title("Evaluation Results using 2nd technique")
     # metadata = fetch_run_res("methodb")
     # st.dataframe(pd.DataFrame(metadata))
