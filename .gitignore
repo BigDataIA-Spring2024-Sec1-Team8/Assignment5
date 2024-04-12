@@ -1,3 +1,7 @@
+__pycache__
+streamlit-fastapi-service/Frontend/__pycache__
+streamlit-fastapi-service/Backend/__pycache__
+streamlit-fastapi-service/Backend/config/
 .DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
