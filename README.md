@@ -20,3 +20,11 @@ Our objective is to create an intuitive platform where users feel like they are 
 ![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/evaluation.png)
 
 
+## Contributions
+-Sai Durga Mahesh Bandaru - 33.3%
+
+-Sri Poojitha Mandali - 33.3%
+
+-Shivani Gulgani - 33.3%
+
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
