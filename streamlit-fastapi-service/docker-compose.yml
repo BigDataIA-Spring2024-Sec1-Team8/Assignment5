@@ -1,0 +1,20 @@
+version: '3'
+services:
+  fastapi-service:
+    build:
+      context: ./Backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Backend:/app
+    environment:
+      - CONFIG_PATH=config/config.yaml
+
+  streamlit-app:
+    image: maheshsai252/backend
+    build:
+      context: ./Frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./Frontend:/app

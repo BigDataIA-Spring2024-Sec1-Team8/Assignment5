@@ -42,10 +42,12 @@ def generate_qas( history=[]):
     history.append({
         "role": "user", "content":prompt
     })
+    print("making call", prompt)
     response = client.chat.completions.create(
         model="gpt-4",
         messages=history
     )
+
     # print(response)
     history.append(
         {"role": "assistant", "content": response.choices[0].message.content.strip()}
@@ -65,7 +67,7 @@ def generate_qas( history=[]):
     print("ans", answer)
     return question, answer
 
-def fetch_question_context(file_path, start_phrase, end_phrase):
+def fetch_question_context(file_path):
     try:
         with open(file_path, 'r') as file:
             content = file.read()            
@@ -94,17 +96,22 @@ def generate_embedding(text_to_embed):
     # embedding_vector = np.array(base64.b64decode(response.data[0].embedding))
     return response.data[0].embedding
 
-def fetch_questions(i):
+def fetch_questions(topic):
     dags = os.path.join(os.getcwd(), 'dags')
     res_path = os.path.join(dags, 'resources')
-    file_path = os.path.join(res_path, "level1.txt") 
-    file_path2 = os.path.join(res_path, "level2.txt") 
-    file_path3 = os.path.join(res_path, "level3.txt") 
+    topicname=""
+    if topic == 'Extensions of Multiple Regression':
+        topicname = 'level1.txt'
+    elif topic == 'Evaluating Regression Model Fit and Interpreting Model Results':
+        topicname = 'level2.txt'
+    else:
+        topicname = 'level3.txt'
 
+    file_path = os.path.join(res_path, topicname)
     extracted_text = fetch_question_context(file_path)
-    extracted_text2 = fetch_question_context(file_path2)
-    extracted_text3 = fetch_question_context(file_path3)
-    return extracted_text+extracted_text2+extracted_text3
+    if topic == 'Extensions of Multiple Regression':
+        extracted_text = extracted_text[extracted_text.find('Answers to Sample Level I Multiple Choice  Questions'):]
+    return extracted_text
 def store_in_pinecone(embeddings, chunk_ids, meta, namespace):
     index_name = "note-index"
     # Create index if not exists
@@ -135,7 +142,7 @@ def process_topic(run_id,topic, namespace_suffix= ""):
     questions = []
     answers = []
     history = []
-    extracted_text = fetch_questions()
+    extracted_text = fetch_questions(topic)
     context = f"""
     Give question/answer set to reinforce learning from topic summaries.
             Don't use external knowledge
@@ -168,6 +175,7 @@ def process_topic(run_id,topic, namespace_suffix= ""):
         except Exception as e:
             prev=i
             time.sleep(60)
+            print(str(e))
             continue
         print(q,"\nans\n", a,"\n", i)
         questions.append(q)
