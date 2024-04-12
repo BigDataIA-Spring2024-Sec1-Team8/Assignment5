@@ -1,0 +1,4 @@
+__pycache__
+streamlit-fastapi-service/Frontend/__pycache__
+streamlit-fastapi-service/Backend/__pycache__
+streamlit-fastapi-service/Backend/config/
