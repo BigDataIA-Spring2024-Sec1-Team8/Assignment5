@@ -11,7 +11,10 @@ Our objective is to create an intuitive platform where users feel like they are 
 
 ## Architecture Diagram
 **Knowledge Base Generation**
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/Assignment5/blob/main/generating%20knowledgebase.png)
 
 **QA Generation**
+![image](
 
 **Evaluation of Results**
+![image](
