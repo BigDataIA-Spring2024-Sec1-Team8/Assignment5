@@ -8,6 +8,8 @@ Our objective is to create an intuitive platform where users feel like they are 
 
 ## Project Resources
 - Google Codelabs - [https://codelabs-preview.appspot.com/?file_id=1uXikN37mPdhQEFKc0ie2BY0VctI6MaWroPuIYfkSPCs#0 ](https://codelabs-preview.appspot.com/?file_id=1LhPahVn6ePoLbodXvMhBIhIVaoZWisL6UW6Zlb3CWYU#0)
+- Demo Recording Link - [[https://northeastern.zoom.us/rec/share/XOIytqfmD_d1iqjKvQTAxXZfDOgHEGbXIpeVNLYH-FkEqTgrr_PIKlaK4HzHXe74.2RpCKol9ce9YMpRd?startTime=1713062639000](https://northeastern.zoom.us/rec/share/XOIytqfmD_d1iqjKvQTAxXZfDOgHEGbXIpeVNLYH-FkEqTgrr_PIKlaK4HzHXe74.2RpCKol9ce9YMpRd?startTime=1713062639000
+Passcode: Tf3ny%0#)]
 
 ## Architecture Diagram
 **Knowledge Base Generation**
